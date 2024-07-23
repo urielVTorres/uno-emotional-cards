@@ -1,0 +1,71 @@
+/* styles.css */
+body {
+  height: 100vh;
+  margin: 0;
+  background-color: #ffffff;
+  color: white;
+}
+
+.uno-card {
+  position: relative;
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: gray;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.uno-card.blue {
+  background-color: #317dd4;
+}
+.uno-card.white {
+  background-color: #cacaca;
+  color: black;
+}
+.uno-card.pink {
+  background-color: #fd4eef;
+}
+.uno-card.golden {
+  background-color: #ffde25;
+}
+
+.middle {
+  background-color: white;
+  width: 85%;
+  height: 85%;
+  color: black;
+  border-radius: 50% / 50%;
+  transform: rotate(30deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto {
+  transform: rotate(-30deg);
+}
+
+.symbol {
+  font-size: 1.4rem;
+  font-family: fantasy;
+}
+
+.symbol.small {
+  font-size: 2em;
+  position: absolute;
+}
+
+.symbol.top-left {
+  top: 10px;
+  left: 10px;
+}
+
+.symbol.bottom-right {
+  bottom: 10px;
+  right: 10px;
+}

@@ -1,0 +1,53 @@
+{
+  "emociones": [
+    "En casa siento… (3 emociones)",
+    "Con amigos siento… (3 emociones)",
+    "En la escuela siento… (3 emociones)",
+    "En el trabajo siento… (3 emociones)",
+    "Cuando algo falla siento…",
+    "Haciendo lo que me gusta siento…",
+    "Cumpliendo objetivos siento…",
+    "De vacaciones siento…",
+    "Cuando me dicen 'te quiero' siento…",
+    "¿Qué emoción sentiste hoy?",
+    "¿Qué causó esa emoción?",
+    "¿Cómo actúas con esa emoción?",
+    "¿Qué hacer cuando te sientes triste?",
+    "¿Qué hacer cuando tienes miedo?",
+    "¿Qué hacer cuando estás enojado?",
+    "Menciona 5 pensamientos positivos del día",
+    "Menciona 5 pensamientos positivos de mí",
+    "Menciona 3 sensaciones al estar triste",
+    "Menciona 3 sensaciones al estar enojado",
+    "Menciona 3 sensaciones al estar feliz",
+    "Menciona 3 sensaciones al tener miedo",
+    "Cuando me quitan algo siento…",
+    "Cuando pierdo un juguete siento…",
+    "Cuando saco mala nota siento…",
+    "Abrazando a un ser querido siento…",
+    "Cuando me insultan siento…",
+    "Cuando saco buena nota siento…"
+  ],
+  "actividades_fisicas": [
+    "Es momento de CANTAR",
+    "Es momento de BAILAR",
+    "Es momento de BAILAR LA PELUSA"
+  ],
+  "habilidades_sociales": [
+    "Haz una pregunta a alguien",
+    "Agradece a alguien por algo",
+    "Preséntate al grupo",
+    "Presenta a alguien más",
+    "Da un cumplido",
+    "Ofrece una disculpa",
+    "Da un abrazo"
+  ],
+  "relajacion": [
+    "Momento de FLOJO TIESO",
+    "Momento de GLOBOS",
+    "¿Te has sentido como el globo?",
+    "Respiración: 'Soy maravill@s@'",
+    "Autoafirmación: 'Hoy será un gran día'",
+    "Soy una persona…"
+  ]
+}
